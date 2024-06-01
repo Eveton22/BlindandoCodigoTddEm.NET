@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|c:\\users\\evert\\source\\repos\\meustalentos\\meustalentos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|solutionrelative:meustalentos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56096458-C0E0-4228-8AEE-96EC67E46571}|TesteMeusTalentos\\TesteMeusTalentos.csproj|c:\\users\\evert\\source\\repos\\meustalentos\\testemeustalentos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56096458-C0E0-4228-8AEE-96EC67E46571}|TesteMeusTalentos\\TesteMeusTalentos.csproj|solutionrelative:testemeustalentos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56096458-C0E0-4228-8AEE-96EC67E46571}|TesteMeusTalentos\\TesteMeusTalentos.csproj|c:\\users\\evert\\source\\repos\\meustalentos\\testemeustalentos\\testemeustalentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56096458-C0E0-4228-8AEE-96EC67E46571}|TesteMeusTalentos\\TesteMeusTalentos.csproj|solutionrelative:testemeustalentos\\testemeustalentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|c:\\users\\evert\\source\\repos\\meustalentos\\meustalentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|solutionrelative:meustalentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|c:\\users\\evert\\source\\repos\\meustalentos\\meustalentos\\meustalentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D19DD017-20AE-413E-B0B4-3D383A1603CC}|MeusTalentos\\MeusTalentos.csproj|solutionrelative:meustalentos\\meustalentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteMeusTalentos",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\TesteMeusTalentos\\TesteMeusTalentos.csproj",
+              "RelativeDocumentMoniker": "TesteMeusTalentos\\TesteMeusTalentos.csproj",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\TesteMeusTalentos\\TesteMeusTalentos.csproj",
+              "RelativeToolTip": "TesteMeusTalentos\\TesteMeusTalentos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T00:20:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MeusTalentos\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\Calculadora.cs",
+              "RelativeToolTip": "MeusTalentos\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:21:18.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\TesteMeusTalentos\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TesteMeusTalentos\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\TesteMeusTalentos\\UnitTest1.cs",
+              "RelativeToolTip": "TesteMeusTalentos\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:19:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeusTalentos",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\MeusTalentos.csproj",
+              "RelativeDocumentMoniker": "MeusTalentos\\MeusTalentos.csproj",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\MeusTalentos.csproj",
+              "RelativeToolTip": "MeusTalentos\\MeusTalentos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T00:09:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\Program.cs",
+              "RelativeDocumentMoniker": "MeusTalentos\\Program.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\MeusTalentos\\MeusTalentos\\Program.cs",
+              "RelativeToolTip": "MeusTalentos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:08:04.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

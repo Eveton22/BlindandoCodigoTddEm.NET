@@ -1,0 +1,14 @@
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\bin\Debug\net8.0\MeusTalentos.exe
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\bin\Debug\net8.0\MeusTalentos.deps.json
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\bin\Debug\net8.0\MeusTalentos.runtimeconfig.json
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\bin\Debug\net8.0\MeusTalentos.dll
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\bin\Debug\net8.0\MeusTalentos.pdb
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.AssemblyInfoInputs.cache
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.AssemblyInfo.cs
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.csproj.CoreCompileInputs.cache
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.dll
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\refint\MeusTalentos.dll
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.pdb
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\MeusTalentos.genruntimeconfig.cache
+C:\Users\evert\source\repos\MeusTalentos\MeusTalentos\obj\Debug\net8.0\ref\MeusTalentos.dll

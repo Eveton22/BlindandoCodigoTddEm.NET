@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evert\\source\\repos\\Programa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB54AB-5307-48BF-A3ED-341CE22E7A0A}|Programa\\Programa.csproj|c:\\users\\evert\\source\\repos\\programa\\programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DB54AB-5307-48BF-A3ED-341CE22E7A0A}|Programa\\Programa.csproj|solutionrelative:programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Programa\\Programa\\Program.cs",
+              "RelativeDocumentMoniker": "Programa\\Program.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Programa\\Programa\\Program.cs",
+              "RelativeToolTip": "Programa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:21:50.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
